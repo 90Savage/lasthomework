@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaEE-01-out">
+    <output-path>$PROJECT_DIR$/JavaEE-01/target</output-path>
+    <root id="archive" name="JavaEE-01-out.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaEE-01" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: classworlds:classworlds:1.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.19" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaEE-01/web/Web" />
+    </root>
+  </artifact>
+</component>
