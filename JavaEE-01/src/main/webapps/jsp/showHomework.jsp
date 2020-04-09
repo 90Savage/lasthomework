@@ -5,9 +5,10 @@
   Time: 7:40 下午
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page import="com.java.code.model.StudentHomework" %>
+<%@ page import="org.examples.javaee.class01.model.StudentHomework" %>
 <%@ page import="java.util.List" %>
-<%@ page import="com.java.code.jdbc.StudentHomeworkJdbc" %>
+<%@ page import="org.examples.javaee.class01.jdbc.StudentHomeworkJdbc" %>
+
 
 <%--
   Created by IntelliJ IDEA.

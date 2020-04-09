@@ -5,9 +5,9 @@
   Time: 7:01 下午
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page import="com.java.code.model.StudentHomework" %>
+<%@ page import="org.examples.javaee.class01.model.StudentHomework" %>
 <%@ page import="java.util.List" %>
-<%@ page import="com.java.code.model.Homework" %>
+<%@ page import="org.examples.javaee.class01.model.Homework" %>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
